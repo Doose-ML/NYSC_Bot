@@ -1,0 +1,9 @@
+# Secret files
+*.json
+.env
+nysc-bot-firebase-adminsdk-fbsvc-3e6d43533b.json
+Google auth.json
+
+# Python
+__pycache__/
+*.py[cod]
